@@ -10,5 +10,6 @@ namespace ConsoleApp1
     {
         Console.WriteLine("hello");
         Console.WriteLine("mate");
+        Console.WriteLine("Jede burek i jogurt");
     }
 }
